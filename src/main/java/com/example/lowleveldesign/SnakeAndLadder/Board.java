@@ -1,7 +1,5 @@
 package com.example.lowleveldesign.SnakeAndLadder;
 
-import javafx.scene.control.skin.CellSkinBase;
-
 import java.util.concurrent.ThreadLocalRandom;
 
 public class Board {
