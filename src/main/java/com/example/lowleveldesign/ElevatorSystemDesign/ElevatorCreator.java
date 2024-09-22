@@ -6,13 +6,8 @@ import java.util.List;
 public class ElevatorCreator {
 
     static List<ElevatorController> elevatorControllerList = new ArrayList<>();
-<<<<<<< HEAD
-    static {
-
-=======
 
     static {
->>>>>>> 51593c1 (Low level Design Practice)
         ElevatorCar elevatorCar1 = new ElevatorCar();
         elevatorCar1.id =1;
         ElevatorController controller1 = new ElevatorController(elevatorCar1);
